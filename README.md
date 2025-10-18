@@ -159,9 +159,10 @@ This project is open-source and available under the **MIT License**.
 
 ## 👨‍💻 Author
 
-Developed and maintained by **Anuj Billore**
-📧 *[[your-email@example.com](anujbillore3107@gmail.com)]*
-🌐 *[https://your-portfolio-link.com](https://anujbillore-0-0.github.io/Portfolio/)*
+Developed and maintained by **Anuj Billore**  
+📧 [anujbillore3107@gmail.com](mailto:anujbillore3107@gmail.com)  
+
+🌐 [https://anujbillore-0-0.github.io/Portfolio/](https://anujbillore-0-0.github.io/Portfolio/)
 
 ---
 
