@@ -125,14 +125,14 @@ Ensure environment variables are properly configured for database credentials, m
 
 | Page                  | Screenshot                                |
 | --------------------- | ----------------------------------------- |
-| **Login Page**        | ![Admin Login](admin-login.png)           |
-| **Dashboard**         | ![Admin Dashboard](admin-dashboard.png)   |
-| **Manage Brands**     | ![Admin Brands](admin-brands.png)         |
-| **Manage Categories** | ![Admin Categories](admin-categories.png) |
-| **Manage Customers**  | ![Admin Customers](admin-customers.png)   |
-| **Manage Products**   | ![Admin Products](admin-products.png)     |
-| **Manage Users**      | ![Admin Users](admin-users.png)           |
-| **Site Settings**     | ![Admin Settings](admin-settings.png)     |
+| **Login Page**        |<img width="1227" height="700" alt="admin_login" src="https://github.com/user-attachments/assets/0141ff55-7e42-44b7-aa67-84dc333531ff" />|
+| **Dashboard**         | <img width="1924" height="388" alt="admin_landing_page" src="https://github.com/user-attachments/assets/952baac9-83a7-490b-ab66-d6b86965a614" />|
+| **Manage Brands**     |<img width="1915" height="891" alt="admin_manage_brands" src="https://github.com/user-attachments/assets/94882b35-d533-49e3-91ab-3e232d7ebee5" />|
+| **Manage Categories** |<img width="1916" height="894" alt="admin_manage_categories" src="https://github.com/user-attachments/assets/c8d9a4e1-f933-4a33-9ad6-4b3d7243ae04" />|
+| **Manage Customers**  |<img width="1913" height="890" alt="customers" src="https://github.com/user-attachments/assets/8a979dd0-b8e1-4085-9104-07749dcef861" />|
+| **Manage Products**   |<img width="1918" height="892" alt="admin_manage_products" src="https://github.com/user-attachments/assets/adac3cca-bf09-4d09-a86a-010e81f672b1" />|
+| **Manage Users**      |<img width="1915" height="888" alt="amin_manage_users" src="https://github.com/user-attachments/assets/991c9a79-87c4-4087-9843-149473871326" />|
+| **Site Settings**     |<img width="1917" height="888" alt="admin_site_settings" src="https://github.com/user-attachments/assets/8df9a6b8-afb9-49be-b26d-5b200a456357" />|
 
 ---
 
@@ -160,16 +160,9 @@ This project is open-source and available under the **MIT License**.
 ## 👨‍💻 Author
 
 Developed and maintained by **Anuj Billore**
-📧 *[[your-email@example.com](mailto:your-email@example.com)]*
-🌐 *[https://your-portfolio-link.com](https://your-portfolio-link.com)*
+📧 *[[your-email@example.com](anujbillore3107@gmail.com)]*
+🌐 *[https://your-portfolio-link.com](https://anujbillore-0-0.github.io/Portfolio/)*
 
 ---
 
 ⭐ **If you like this project, don’t forget to give it a star!**
-
-```
-
----
-
-Would you like me to add **technology badges** at the top (like “Built with Spring Boot”, “Uses MySQL”, “PayPal Integration”, etc.) to make it look more professional for GitHub and portfolio viewers?
-```
