@@ -113,16 +113,16 @@ Ensure environment variables are properly configured for database credentials, m
 
 | Page                 | Screenshot                                  |
 | -------------------- | ------------------------------------------- |
-| **Login Page**       | ![Customer Login](<img width="1507" height="777" alt="customer_login" src="https://github.com/user-attachments/assets/767dffc8-6373-4e6e-b892-85b3b2ad06a8" />
-)       |
-| **Landing Page**     | ![Customer Landing](<img width="1917" height="577" alt="customer_landing_page" src="https://github.com/user-attachments/assets/9e9f498b-73a3-4646-819d-0f582819cd8f" />
-)   |
-| **Shopping Cart**    | ![Customer Cart](<img width="1905" height="633" alt="customer_shopping_cart" src="https://github.com/user-attachments/assets/5816fbf0-56e2-4666-a957-efed2fe583e8" />
-)         |
-| **Checkout Page**    | ![Customer Checkout](<img width="1898" height="645" alt="customer_checkout" src="https://github.com/user-attachments/assets/91fcfe7f-6be2-4bea-96c1-320a287cf9a0" />
-) |
-| **Order Management** | ![Customer Orders](<img width="1886" height="877" alt="customer_manage_orders" src="https://github.com/user-attachments/assets/c907b5f7-3c05-42ea-a7d3-5d7e973e3581" />
-)     |
+| **Login Page**       | <img width="1507" height="777" alt="customer_login" src="https://github.com/user-attachments/assets/767dffc8-6373-4e6e-b892-85b3b2ad06a8" />
+       |
+| **Landing Page**     | <img width="1917" height="577" alt="customer_landing_page" src="https://github.com/user-attachments/assets/9e9f498b-73a3-4646-819d-0f582819cd8f" />
+   |
+| **Shopping Cart**    | <img width="1905" height="633" alt="customer_shopping_cart" src="https://github.com/user-attachments/assets/5816fbf0-56e2-4666-a957-efed2fe583e8" />
+         |
+| **Checkout Page**    |<img width="1898" height="645" alt="customer_checkout" src="https://github.com/user-attachments/assets/91fcfe7f-6be2-4bea-96c1-320a287cf9a0" />
+ |
+| **Order Management** | <img width="1886" height="877" alt="customer_manage_orders" src="https://github.com/user-attachments/assets/c907b5f7-3c05-42ea-a7d3-5d7e973e3581" />
+     |
 
 ---
 
